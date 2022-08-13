@@ -1,5 +1,5 @@
 server:
-  aplication:
+  application:
     name: usuario-service
   cloud:
     config:

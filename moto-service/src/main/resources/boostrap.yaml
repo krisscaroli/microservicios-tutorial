@@ -1,5 +1,5 @@
 server:
-  aplication:
+  application:
     name: moto-service
   cloud:
     config:

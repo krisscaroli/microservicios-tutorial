@@ -1,5 +1,5 @@
 server:
-  aplication:
+  application:
     name: carro-service
   cloud:
     config:
